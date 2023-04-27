@@ -8,9 +8,18 @@ font-family: 'Permanent Marker', cursive;
 font-family: 'Righteous', cursive;
 */
 
-* {
+/* * {
     box-sizing: border-box;
+} */
+
+.bg-color-name-title {
+    background-color: #676767;
 }
+
+header {
+    margin: 0;
+}
+
 
 .logo {
     background-image: url("../img/logo.jpeg");
